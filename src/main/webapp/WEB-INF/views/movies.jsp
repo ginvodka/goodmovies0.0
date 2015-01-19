@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"
 </head>
 
-<body>
+<body class="jumbotron">
 <h1>GoodMovies!!</h1>
 <h2>Movie List</h2>
     <ul>
@@ -17,6 +17,6 @@
         </c:forEach>
     </c:if>
     </ul>
-    <p><a href="movies/mform">Add</a></p>
+    <p ><a href="movies/mform">Add</a></p>
 </body>
 </html>
