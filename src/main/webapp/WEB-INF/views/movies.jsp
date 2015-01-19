@@ -2,7 +2,13 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <%@taglib prefix="s" uri="http://www.springframework.org/tags"%>
 <html>
+<head>
+    <link rel="stylesheet" href="main.css">
+
+</head>
+
 <body>
+<h1>GoodMovies!!</h1>
 <h2>Movie List</h2>
     <ul>
     <c:if test="${not empty movies}">
