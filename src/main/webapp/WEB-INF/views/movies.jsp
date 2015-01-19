@@ -3,8 +3,8 @@
 <%@taglib prefix="s" uri="http://www.springframework.org/tags"%>
 <html>
 <head>
-    <link rel="stylesheet" href="main.css">
 
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"
 </head>
 
 <body>
